@@ -1,0 +1,18 @@
+.circle{
+  width: 10em;
+  height: 10em;
+  border: 2px solid red;
+  border-radius: 50%;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.time{
+  border: 1px solid black;
+}
+
+.hide {
+  display: none;
+}
